@@ -1,23 +1,16 @@
 {
   "files": {
-    "main.css": "/PathFindingVisualizer/static/css/main.74f6ac6e.chunk.css",
-    "main.js": "/PathFindingVisualizer/static/js/main.4c2c021b.chunk.js",
-    "main.js.map": "/PathFindingVisualizer/static/js/main.4c2c021b.chunk.js.map",
-    "runtime-main.js": "/PathFindingVisualizer/static/js/runtime-main.8737b45e.js",
-    "runtime-main.js.map": "/PathFindingVisualizer/static/js/runtime-main.8737b45e.js.map",
-    "static/js/2.7d4c362f.chunk.js": "/PathFindingVisualizer/static/js/2.7d4c362f.chunk.js",
-    "static/js/2.7d4c362f.chunk.js.map": "/PathFindingVisualizer/static/js/2.7d4c362f.chunk.js.map",
+    "main.css": "/PathFindingVisualizer/static/css/main.483f4b68.chunk.css",
+    "main.js": "/PathFindingVisualizer/static/js/main.5bebfc76.chunk.js",
+    "main.js.map": "/PathFindingVisualizer/static/js/main.5bebfc76.chunk.js.map",
+    "runtime-main.js": "/PathFindingVisualizer/static/js/runtime-main.15ec2d3a.js",
+    "runtime-main.js.map": "/PathFindingVisualizer/static/js/runtime-main.15ec2d3a.js.map",
+    "static/js/2.f0583ba6.chunk.js": "/PathFindingVisualizer/static/js/2.f0583ba6.chunk.js",
+    "static/js/2.f0583ba6.chunk.js.map": "/PathFindingVisualizer/static/js/2.f0583ba6.chunk.js.map",
     "index.html": "/PathFindingVisualizer/index.html",
-    "precache-manifest.0dbed580a1c2b0ef78a46f90f749d3f7.js": "/PathFindingVisualizer/precache-manifest.0dbed580a1c2b0ef78a46f90f749d3f7.js",
+    "precache-manifest.dde53dd6440d49d4a2cb7f8675020a73.js": "/PathFindingVisualizer/precache-manifest.dde53dd6440d49d4a2cb7f8675020a73.js",
     "service-worker.js": "/PathFindingVisualizer/service-worker.js",
-    "static/css/main.74f6ac6e.chunk.css.map": "/PathFindingVisualizer/static/css/main.74f6ac6e.chunk.css.map",
-    "static/js/2.7d4c362f.chunk.js.LICENSE.txt": "/PathFindingVisualizer/static/js/2.7d4c362f.chunk.js.LICENSE.txt",
+    "static/css/main.483f4b68.chunk.css.map": "/PathFindingVisualizer/static/css/main.483f4b68.chunk.css.map",
     "static/media/Node.css": "/PathFindingVisualizer/static/media/start.364b04b6.png"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.8737b45e.js",
-    "static/js/2.7d4c362f.chunk.js",
-    "static/css/main.74f6ac6e.chunk.css",
-    "static/js/main.4c2c021b.chunk.js"
-  ]
+  }
 }
